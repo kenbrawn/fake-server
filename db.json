@@ -1,36 +1,45 @@
 {
-  "users": [
+  "douane-rubrique": [
     {
-      "id": 1,
-      "name": "John Doe",
-      "email": "john.doe@example.com"
+      "indicateur": I0080,
+      "libelle": "Droits et Taxes sur le Commerce Extérieur",
+      "montant": "",
+      "exercice":"",
+      "categorie":"Recettes Fiscales"
     },
     {
-      "id": 2,
-      "name": "Jane Smith",
-      "email": "jane.smith@example.com"
+  {
+      "indicateur":I0081,
+      "libelle": "Droit de douane",
+      "montant": "",
+      "exercice":"",
+      "categorie":"Recettes Fiscales"
+    },
+     {
+      "indicateur": I003,
+      "libelle": "",
+      "montant": "",
+      "exercice":"",
+      "categorie":""
+    },
+  ],
+  "impot-rubrique": [
+    {
+      "indicateur": 10064,
+      "libelle": "Impot sur le revenu capitaux mobiliers",
+      "categorie": "Dons courants",
+      
     },
     {
-      "id": 3,
-      "name": "Bob Johnson",
-      "email": "bob.johnson@example.com"
+     "indicateur":I0061,
+      "libelle": "Recettes Fiscales Intérieures",
+      "categorie": "Dons courants",
+    },
+    {
+      "indicateur": "I0062",
+        "libelle": "Impôts sur les revenus, bénéfices et gains",
+     "categorie": "Recettes Fiscales."
     }
   ],
-  "posts": [
-    {
-      "id": 1,
-      "title": "First Post",
-      "content": "This is the first post."
-    },
-    {
-      "id": 2,
-      "title": "Second Post",
-      "content": "This is the second post."
-    },
-    {
-      "id": 3,
-      "title": "Third Post",
-      "content": "This is the third post."
-    }
-  ]
+
 }
