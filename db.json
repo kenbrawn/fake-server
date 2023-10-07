@@ -40,7 +40,35 @@
           "libelle": "Impôts sur les revenus, bénéfices et gains",
        "categorie": "Recettes Fiscales"
       }
-    ]
-  
+    ],
+     "impot-saisi": [
+      {
+        "indicateur": "I0110",
+        "libelle": "Droits et Taxes sur le Commerce Extérieur",
+        "montant":751,
+        "exercice":"12/31/2023",
+        "categorie":"Recettes Fiscales"
+      },
+      
+    {
+        "indicateur":"I0101",
+        "libelle": "Droit de douane",
+        "montant": 401,
+        "exercice":"11/31/2023",
+        "categorie":"Dons fiscales"
+      }
+    ],
+     "douane-saisi": [
+      {
+        "indicateur": "I0142",
+        "libelle": "Impot sur le revenu capitaux mobiliers",
+        "categorie": "Dons fiscales"
+        
+      },
+      {
+       "indicateur":"I0161",
+        "libelle": "Recettes Fiscales Intérieures",
+        "categorie": "Dons courants"
+      }
   }
   
