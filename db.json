@@ -1,45 +1,46 @@
 {
-  "douane-rubrique": [
-    {
-      "indicateur":"I0080",
-      "libelle": "Droits et Taxes sur le Commerce Extérieur",
-      "montant":510,
-      "exercice":"01/31/2023",
-      "categorie":"Recettes Fiscales"
-    },
-    
-  {
-      "indicateur":"I0081",
-      "libelle": "Droit de douane",
-      "montant": 100,
-      "exercice":"08/31/2023",
-      "categorie":"Recettes Fiscales"
-    },
-     {
-      "indicateur":" I003",
-      "libelle": "Droit de douane",
-      "montant": 420,
-      "exercice":"5/31/2023",
-      "categorie":"Dons courants"
-    },
-  ],
-  "impot-rubrique": [
-    {
-      "indicateur": "I0064",
-      "libelle": "Impot sur le revenu capitaux mobiliers",
-      "categorie": "Dons courants",
+    "douane-rubrique": [
+      {
+        "indicateur": "I0080",
+        "libelle": "Droits et Taxes sur le Commerce Extérieur",
+        "montant":510,
+        "exercice":"01/31/2023",
+        "categorie":"Recettes Fiscales"
+      },
       
-    },
     {
-     "indicateur":"I0061",
-      "libelle": "Recettes Fiscales Intérieures",
-      "categorie": "Dons courants",
-    },
-    {
-      "indicateur": "I0062",
-        "libelle": "Impôts sur les revenus, bénéfices et gains",
-     "categorie": "Recettes Fiscales"
-    }
-  ]
-
-}
+        "indicateur":"I0081",
+        "libelle": "Droit de douane",
+        "montant": 100,
+        "exercice":"08/31/2023",
+        "categorie":"Recettes Fiscales"
+      },
+       {
+        "indicateur": "I003",
+        "libelle": "Droit de douane",
+        "montant": 420,
+        "exercice":"5/31/2023",
+        "categorie":"Dons courants"
+      }
+    ],
+    "impot-rubrique": [
+      {
+        "indicateur": "I0064",
+        "libelle": "Impot sur le revenu capitaux mobiliers",
+        "categorie": "Dons courants"
+        
+      },
+      {
+       "indicateur":"I0061",
+        "libelle": "Recettes Fiscales Intérieures",
+        "categorie": "Dons courants"
+      },
+      {
+        "indicateur": "I0062",
+          "libelle": "Impôts sur les revenus, bénéfices et gains",
+       "categorie": "Recettes Fiscales"
+      }
+    ]
+  
+  }
+  
