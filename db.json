@@ -3,24 +3,24 @@
     {
       "indicateur": I0080,
       "libelle": "Droits et Taxes sur le Commerce Extérieur",
-      "montant": "",
-      "exercice":"",
+      "montant":510,
+      "exercice":"01/31/2023",
       "categorie":"Recettes Fiscales"
     },
     
   {
       "indicateur":I0081,
       "libelle": "Droit de douane",
-      "montant": "",
-      "exercice":"",
+      "montant": 100,
+      "exercice":"08/31/2023",
       "categorie":"Recettes Fiscales"
     },
      {
       "indicateur": I003,
-      "libelle": "",
-      "montant": "",
-      "exercice":"",
-      "categorie":""
+      "libelle": "Droit de douane",
+      "montant": 420,
+      "exercice":"5/31/2023",
+      "categorie":"Dons courants"
     },
   ],
   "impot-rubrique": [
