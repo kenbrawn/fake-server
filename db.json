@@ -27,18 +27,24 @@
       {
         "indicateur": "I0064",
         "libelle": "Impot sur le revenu capitaux mobiliers",
+        "montant":510,
+        "exercice":"01/31/2023",
         "categorie": "Dons courants"
         
       },
       {
        "indicateur":"I0061",
         "libelle": "Recettes Fiscales Intérieures",
+        "montant":510,
+        "exercice":"11/30/2023",
         "categorie": "Dons courants"
       },
       {
         "indicateur": "I0062",
           "libelle": "Impôts sur les revenus, bénéfices et gains",
-       "categorie": "Recettes Fiscales"
+          "montant":720,
+          "exercice":"07/30/2023",
+          "categorie": "Dons courants"
       }
     ],
      "impot-saisi": [
@@ -62,12 +68,16 @@
       {
         "indicateur": "I0142",
         "libelle": "Impot sur le revenu capitaux mobiliers",
+        "montant":422,
+        "exercice":"03/31/2023",
         "categorie": "Dons fiscales"
         
       },
       {
        "indicateur":"I0161",
         "libelle": "Recettes Fiscales Intérieures",
+        "montant":555,
+        "exercice":"12/31/2023",
         "categorie": "Dons courants"
       }
      ]
